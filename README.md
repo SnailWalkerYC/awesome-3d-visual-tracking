@@ -15,6 +15,8 @@ Maintainers - [Yu Chen](https://github.com/SnailWalkerYC), [Yuan Liu](123)
 - [Blogs](#blogs)
 
 ## Scholar
+* [EPFL Pascal Fua](https://people.epfl.ch/pascal.fua/bio?lang=en)
+* [UBC CS David Lowe](https://www.cs.ubc.ca/~lowe/home.html)
 * [CMU RI Xinshuo Weng](http://www.xinshuoweng.com/)
 
 ## Papers
